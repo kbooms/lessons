@@ -40,4 +40,6 @@ func main() {
 
 	fmt.Println(LoginToken)
 	fmt.Printf("Variable is of type: %T \n", LoginToken)
+
+	//git test
 }
